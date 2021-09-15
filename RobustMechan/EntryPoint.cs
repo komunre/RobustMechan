@@ -8,7 +8,7 @@ using Robust.Shared.Timing;
 
 // DEVNOTE: You can change the namespace and project name to whatever you want!
 // Just make sure to consistently use a prefix across your different projects.
-namespace Template.Game
+namespace RobustMechan
 {
     public class EntryPoint : GameClient
     {

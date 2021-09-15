@@ -1,4 +1,4 @@
-namespace Template.Game
+namespace RobustMechan
 {
     internal static class TemplateIoC
     {

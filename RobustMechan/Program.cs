@@ -1,6 +1,6 @@
 using Robust.Client;
 
-namespace Template.Game
+namespace RobustMechan
 {
     internal static class Program
     {
@@ -16,8 +16,8 @@ namespace Template.Game
                 // Projects with this prefix will be loaded by the engine.
                 ContentModulePrefix = "Template.",
                 
-                // Name of the folder where the game will be built in. Also check Template.Game.csproj:9!
-                ContentBuildDirectory = "Template.Game",
+                // Name of the folder where the game will be built in. Also check RobustMechan.csproj:9!
+                ContentBuildDirectory = "RobustMechan",
                 
                 // Default window name. This can also be changed on runtime with the IClyde service.
                 DefaultWindowTitle = "RobustToolbox Template Game",

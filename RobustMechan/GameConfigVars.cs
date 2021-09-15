@@ -1,7 +1,7 @@
 using Robust.Shared;
 using Robust.Shared.Configuration;
 
-namespace Template.Game
+namespace RobustMechan
 {
     // DEVNOTE: This is the same as SS14's CCVars. Except it's not named CCVars as that name is 
     // hot garbage.
