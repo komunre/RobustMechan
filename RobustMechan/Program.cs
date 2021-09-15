@@ -14,7 +14,7 @@ namespace RobustMechan
                 Sandboxing = false,
                 
                 // Projects with this prefix will be loaded by the engine.
-                ContentModulePrefix = "Template.",
+                ContentModulePrefix = "",
                 
                 // Name of the folder where the game will be built in. Also check RobustMechan.csproj:9!
                 ContentBuildDirectory = "RobustMechan",
